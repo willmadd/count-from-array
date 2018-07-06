@@ -10,4 +10,4 @@ Code to count instances in array
 
 Remove duplicates using newset
 
-Array.from(new Set(names));
+    Array.from(new Set(names));
