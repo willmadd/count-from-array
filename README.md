@@ -7,3 +7,7 @@ Code to count instances in array
       count[i] = (count[i]||0) + 1;
     });
     console.log(count);
+
+Remove duplicates using newset
+
+Array.from(new Set(names));
